@@ -1,8 +1,8 @@
 # Backend-Python-Ebac
-Aqui está minha trajetória e progresso em meu curso Python Backend na EBAC (Escola Britânica de Artes Criativas &amp; Tecnologia)
+Aqui está uma parte da minha trajetória e progresso em meu curso Python Backend na EBAC (Escola Britânica de Artes Criativas &amp; Tecnologia)
 
 ### Dividido em Partes!
-#### 1, 2 e 3
+#### 1 e 2
 
 
 ## Para a extensão IPYNB funcionar:
